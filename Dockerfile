@@ -1,3 +1,5 @@
+# Based on https://medium.com/@elye.project/intro-to-docker-building-android-app-cb7fb1b97602
+
 FROM openjdk:8
 
 ENV SDK_URL="https://dl.google.com/android/repository/sdk-tools-linux-3859397.zip" \
